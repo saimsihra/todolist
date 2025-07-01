@@ -1,4 +1,4 @@
-# 📝 To‑Do List Web App
+# todolist
 
 A minimalist, animated to‑do list built with **HTML + CSS + JavaScript** and **Bootstrap 4**.  
 Add, check‑off, delete, save to browser **localStorage**, and restore tasks on reload.
