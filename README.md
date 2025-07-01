@@ -4,7 +4,7 @@ A minimalist, animated to‑do list built with **HTML + CSS + JavaScript
 Add, check‑off, delete, save to browser **localStorage**, and restore tasks on reload.
 
 ## 📌 Live Demo
-> <https://YOUR‑USERNAME.github.io/YOUR‑REPO/>
+> [<https://YOUR‑USERNAME.github.io/YOUR‑REPO/>](https://saimsihra.github.io/todolist/)
 
 ---
 
