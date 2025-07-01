@@ -27,10 +27,3 @@ Add, check‑off, delete, save to browser **localStorage**, and restore tasks on
 | Icons | Font Awesome |
 
 ---
-
-## 🛠️ Getting Started
-
-### 1. Clone
-```bash
-git clone https://github.com/YOUR‑USERNAME/YOUR‑REPO.git
-cd YOUR‑REPO
