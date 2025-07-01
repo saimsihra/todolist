@@ -6,7 +6,7 @@ Add, check off, delete, save to browser **localStorage**, and restore tasks on r
 ---
 
 ## 📌 Live Demo
-> 🔗 [Live Demo](https://saimsihra.github.io/todolist/)
+> 🔗 [Live Demo](https://saipratimmishra.github.io/todolist/)
 
 ---
 
